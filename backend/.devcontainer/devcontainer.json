@@ -1,0 +1,23 @@
+{
+    "name": "Django_container",
+    "dockerComposeFile": "../../docker-compose.yml",
+    "service": "backend",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "formulahendry.auto-rename-tag",
+                "batisteo.vscode-django",
+                "GitHub.copilot",
+                "GitHub.copilot-chat",
+                "ecmel.vscode-html-css",
+                "oderwat.indent-rainbow",
+                "VisualStudioExptTeam.vscodeintellicode",
+                "MS-CEINTL.vscode-language-pack-ja",
+                "ZainChen.json",
+                "csstools.postcss",
+                "ms-python.python",
+                "vscode-icons-team.vscode-icons"
+            ]
+        }
+    }
+}
